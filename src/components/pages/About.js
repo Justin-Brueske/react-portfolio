@@ -1,17 +1,12 @@
 import React from 'react';
-
+import meImage from "../../assets/images/justin.jpg";
 export default function About() {
   return (
     <div>
       <h1>About Page</h1>
-      <p>
-        Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
-        Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
-        mollis diam. Nunc aliquet risus ac finibus porta. Nam quis arcu non
-        lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-        imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus
-        in. Sed rhoncus mollis diam, sit amet facilisis lectus blandit at.
-      </p>
+      <p>Justin is currently a University of Minnesota Full Stack Developer Bootcamp student.  He is currently working for Canadian Pacific Railway while learning to code, however, he has previously worked in the Information Technology space. He is passionate about tech and is excited to learn how to contribute with code.</p>
+      <p>He currently resides in Minnesota with his wife, youngest child and three spoiled cats.  In his free time he enjoys gaming, working on cars, and spending time with family.</p>
+      <img src={meImage} alt="Quiz Time"/>
     </div>
   );
 }
