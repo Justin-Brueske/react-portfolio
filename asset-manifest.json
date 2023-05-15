@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.c2cab247.css",
+    "main.js": "/react-portfolio/static/js/main.2a66dfe9.js",
+    "static/media/purrfect-book.gif": "/react-portfolio/static/media/purrfect-book.fc9cc02732d6371c2fc8.gif",
+    "static/media/readmegenerator.gif": "/react-portfolio/static/media/readmegenerator.458cde88854f13283e68.gif",
+    "static/media/openweather.gif": "/react-portfolio/static/media/openweather.613d63c00ca92c47ca3f.gif",
+    "static/media/quizscreenshot.gif": "/react-portfolio/static/media/quizscreenshot.38dcdb49c404438671ef.gif",
+    "static/media/employee-tracker.gif": "/react-portfolio/static/media/employee-tracker.36230e90b93e7e8d7f9b.gif",
+    "static/media/team-generator.gif": "/react-portfolio/static/media/team-generator.82b8ac230dabeba5d78b.gif",
+    "static/media/Resume.pdf": "/react-portfolio/static/media/Resume.71be57f232f9e6b54cb3.pdf",
+    "static/media/justin.jpg": "/react-portfolio/static/media/justin.ac8b12c471a47cd713d2.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "main.c2cab247.css.map": "/react-portfolio/static/css/main.c2cab247.css.map",
+    "main.2a66dfe9.js.map": "/react-portfolio/static/js/main.2a66dfe9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.2a66dfe9.js"
+  ]
+}
