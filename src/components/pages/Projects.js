@@ -6,7 +6,7 @@ import readmeImage from "../../assets/images/readmegenerator.gif";
 import teamImage from "../../assets/images/team-generator.gif";
 import employeeImage from "../../assets/images/employee-tracker.gif";
 
-export default function Blog() {
+export default function Projects() {
   return (
     <div>
       <h1>Projects</h1>
