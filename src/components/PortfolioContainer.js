@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import NavTabs from './NavTabs';
-import Home from './pages/Resume';
+import Resume from './pages/Resume';
 import About from './pages/About';
 import Projects from './pages/Projects';
 import Contact from './pages/Contact';
@@ -12,8 +12,8 @@ export default function PortfolioContainer() {
     if (currentPage === 'About') {
       return <About />;
     }
-    if (currentPage === 'Home') {
-      return <Home />;
+    if (currentPage === 'Resume') {
+      return <Resume />;
     }
     if (currentPage === 'Projects') {
       return <Projects />;
